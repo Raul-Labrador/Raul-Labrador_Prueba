@@ -9,3 +9,4 @@
 - 🤔 Me gustaría seguir aprendiendo más sobre estos lenguajes y estoy abierto a descubir nuevos, así que cualquier consejo es bueno para seguir aprendiendo😄
 
 
+ cAMBIOS CON ssh
